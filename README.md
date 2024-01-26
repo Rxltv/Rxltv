@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola, soy Rxltv 👋
 
-<!--
-**Rxltv/Rxltv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmente soy estudiante de matemáticas puras en la UNMSM.
+- 🌱 Estoy aprendiendo matemáticas y programación.
+- 👯 Estoy buscando colaborar en proyectos pequeños para adquirir experiencia en el desarrollo full stack.
+- 🤔 Necesito ayuda en mi ruta de aprendizaje para ser un desarrollador full stack.
+- 💬 Puedes preguntarme sobre matemáticas.
+- 📫 Cómo contactarme: nvilca478@gmail.com
+- ⚡ Dato curioso: Amo a los gatos.
 -->
+
+
+
